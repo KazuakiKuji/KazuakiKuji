@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=KazuakiKuji&color=dc143c)
+
 ### Ref
 
 [GitHubのプロフィールをカッコよくする方法](https://zenn.dev/a_ichi1/articles/0411396e6b887d)
