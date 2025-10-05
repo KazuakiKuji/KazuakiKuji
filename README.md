@@ -1,25 +1,13 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; column-gap: 16px;">
-  <img alt="github stats" height="200" src="https://github-readme-stats.vercel.app/api?username=KazuakiKuji&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img alt="top langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuakiKuji&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img alt="github stats" height="200" src="https://github-readme-stats.vercel.app/api?username=KazuakiKuji&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&show_owner=true&show_rank=true" />
+  <img alt="top langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuakiKuji&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=KazuakiKuji" />
 </div>
 
-## 📈 Detailed Analytics
+## 🌟 Contribution Activity
 
 <div style="display: flex; column-gap: 16px; margin-top: 16px;">
-  <img alt="repos per language" height="200" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img alt="most commit language" height="200" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img alt="GitHub Activity Graph" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=KazuakiKuji&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="GitHub Streak Stats" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=KazuakiKuji&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-
-<div style="display: flex; column-gap: 16px; margin-top: 16px;">
-  <img alt="productive time" height="200" src="profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</div>
-
-## Other
-
-<p align="left">
-  <a href="https://twitter.com/Cookie_Kazu24">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
